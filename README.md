@@ -129,7 +129,7 @@
       <li>Hyphaea</li>
     </ul>
   </li>
-  <li>Swelter
+  <li>Sable
     <ul>
       <li>Midnight (Capitol)</li>
 	  <li>Umbral Mountain Range</li>
