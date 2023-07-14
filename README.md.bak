@@ -44,7 +44,7 @@
       <li>Ebb</li>
     </ul>
   </li>
-  <li>Violent
+  <li>Violet
     <ul>
       <li>The Flower Fields</li>
       <li>Maze</li>
@@ -57,7 +57,33 @@
     </ul>
   </li>
 </ul>
-<h2>Nature of Life</h2>
+<h2>Tripartite Being</h2>
+<ul>
+  <li>Body</li>
+  <li>Pigment</li>
+  <li>Potentia</li>
+</ul>
 <h2>Species</h2>
+<ul>
+  <li>Caro Chimera</li>
+  <li>Living Toy</li>
+  <li>Crown</li>
+  <li>Grave Dog</li>
+  <li>Dreaming Hart</li>
+  <li>Dust Moth</li>
+  <li>Bone Wasp</li>
+  <li>Guild Bee</li>
+  <li>Flower Dragon</li>
+  <li>Bloom Olm</li>
+  <li>Rot Rat</li>
+  <li>Sol Bat</li>
+  <li>Sea Horse</li>
+  <li>Deviations
+	<ul>
+	  <li>Teacup</li>
+	  <li>Titan</li>
+	</ul>
+  </li>
+</ul>
 <h2>Places</h2>
 <h2>Notes</h2>

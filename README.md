@@ -86,4 +86,57 @@
   </li>
 </ul>
 <h2>Places</h2>
+<ul>
+  <li>Ossiary
+    <ul>
+      <li>Ecclesia (Capitol)</li>
+    </ul>
+  </li>
+  <li>Swelter
+    <ul>
+      <li>Dis (Capitol)</li>
+      <li>Caro</li>
+    </ul>
+  </li>
+  <li>Aura
+    <ul>
+      <li>Halcyon (Capitol)</li>
+      <li>Pyrite</li>
+    </ul>
+  </li>
+  <li>Rot
+    <ul>
+      <li>Kindle (Capitol)</li>
+      <li>Moulder</li>
+    </ul>
+  </li>
+  <li>Velde
+    <ul>
+      <li>Veradas (Capitol)</li>
+      <li>Bloom</li>
+    </ul>
+  </li>
+  <li>Ebb
+    <ul>
+      <li>The Ocean of Pearls, Muse (Capitol)</li>
+      <li>The Silent Sea, Dread (Capitol)</li>
+      <li>The Pearl Archipelago, Lamina</li>
+    </ul>
+  </li>
+  <li>Maze
+    <ul>
+      <li>Reverie (Capitol)</li>
+      <li>Hyphaea</li>
+    </ul>
+  </li>
+  <li>Swelter
+    <ul>
+      <li>Midnight (Capitol)</li>
+	  <li>Umbral Mountain Range</li>
+      <li>Little Umbra</li>
+	  <li>Luminuex</li>
+	  <li>Moonwell</li>
+    </ul>
+  </li>
+</ul>
 <h2>Notes</h2>
