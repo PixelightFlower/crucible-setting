@@ -52,4 +52,6 @@
   </li>
 </ul>
 <h2>Entities</h2>
+<h3>The Cathedral of Bone</h3>
+</ul>
 <h2>Realms</h2>
