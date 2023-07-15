@@ -55,13 +55,103 @@
 
 <h2>Entities</h2>
 <h3>The Cathedral of Bone</h3>
+<p>Associated Colour: White <br>
+<p>Associated Symbol: Cages <br>
+<p>Associated Element: Bone <br>
+<p>Themes:
+  <ul>
+    <li>Eyes Shut</li>
+    <li>Spirituality</li>
+    <li>Locks</li>
+    <li>Secrets</li>
+    <li>Foundations</li>
+  </ul>
+</p>
+
 <h3>The Thousand Teeth</h3>
+<p>Associated Colour: Red <br>
+<p>Associated Symbol: Dripping Blood <br>
+<p>Associated Element: Blood <br>
+<p>Themes:
+  <ul>
+    <li>Appetite, Hunger, Gluttony</li>
+    <li>The parts of a person that are meat</li>
+  </ul>
+</p>
+
 <h3>The Liquid Sun</h3>
+<p>Associated Colour: Orange <br>
+<p>Associated Symbol: The Sun <br>
+<p>Associated Element: Gold <br>
+<p>Themes:
+  <ul>
+    <li>Inspiration, charisma</li>
+    <li>Light, the flow of energy</li>
+    <li>Mania, burning out</li>
+  </ul>
+</p>
+
 <h3>The Precipice Contagion</h3>
+<p>Associated Colour: Yellow <br>
+<p>Associated Symbol: The alchemical sign for Arsenic <br>
+<p>Associated Element: Choler (Bile) <br>
+<p>Themes:
+  <ul>
+    <li>Fever Dreams, illness</li>
+    <li>Innovation that comes from desperation at the knife's edge</li>
+    <li>Pushing limitations, breaking boundaries, going to the extreme</li>
+  </ul>
+</p>
+
 <h3>The Twisting Verdancy</h3>
+<p>Associated Colour: Green <br>
+<p>Associated Symbol: A sprout with two spiral leaves <br>
+<p>Associated Element: Vitrum (Uranium Glass) <br>
+<p>Themes:
+  <ul>
+    <li>Growth as a natural part of aging</li>
+    <li>The Cycle of life and death</li>
+    <li>Reproduction, creation</li>
+  </ul>
+</p>
+
 <h3>The Endless Dream</h3>
+<p>Associated Colour: Blue <br>
+<p>Associated Symbol: Mirrors <br>
+<p>Associated Element: Gallium <br>
+<p>Themes:
+  <ul>
+    <li>Dualities</li>
+    <li>Daydreams/Nightmares</li>
+    <li>Sleeping/Waking</li>
+    <li>Loneliness/Connection</li>
+  </ul>
+</p>
+
 <h3>The Flower Fields</h3>
+<p>Associated Colour: Violet <br>
+<p>Associated Symbol: A wrapped candy sweet with a spiral in the center <br>
+<p>Associated Element: Sugar <br>
+<p>Themes:
+  <ul>
+    <li>Nostalgia, comfort for its own sake</li>
+    <li>Paralysis, restless torpor</li>
+    <li>Perceptual disturbance and manipulation</li>
+  </ul>
+</p>
+
 <h3>The Iron Gate</h3>
+<p>Associated Colour: Black <br>
+<p>Associated Symbol: An Iron Key <br>
+<p>Associated Element: Carbon <br>
+<p>Themes:
+  <ul>
+    <li>Eyes open</li>
+    <li>Secrets sought and revealed</li>
+    <li>Questioning the status quo</li>
+    <li>Opened/opening locks</li>
+  </ul>
+</p>
 
 <h2>Realms</h2>
 <h3>Ossiary</h3>
@@ -156,3 +246,17 @@
 </ul>
 
 <h3>Sable</h3>
+<p>"The Door is Always Open"
+<ul>
+  <li>Known for secrets waiting to be revealed, filled with makers and those that seek hidden truths. The most noteworthy landmark is the Astra Valley, a star shaped river valley that butts up to several geological features. It is also the main populated portion of the Spoke as the Moon that lights up from the distant ceiling gives it a few hours of light a day.</li>
+  <li>Sable trades in Lux, a paper money with luminescent ink</li>
+  <li>Native Inhabitants: Grave Dogs</li>
+  <li>Capital City: Midnight 
+    <p>Midnight is beyond the Umbral Mountain where no light of the moon can reach, because of that they’ve filled their dark city with artificial light. It looks like a star field from above, and it bustles with life.</p>
+    <ul>
+	    <li>Lumineux</li>
+	    <li>Moonwell</li>
+	    <li>Little Umbra</li>
+	</ul>
+  </li>
+</ul>

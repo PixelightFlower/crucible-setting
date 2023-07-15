@@ -55,13 +55,103 @@
 
 <h2>Entities</h2>
 <h3>The Cathedral of Bone</h3>
+<p>Associated Colour: White <br>
+Associated Symbol: Cages <br>
+Associated Element: Bone <br>
+Themes:
+<ul>
+  <li>Eyes Shut</li>
+  <li>Spirituality</li>
+  <li>Locks</li>
+  <li>Secrets</li>
+  <li>Foundations</li>
+</ul>
+</p>
+
 <h3>The Thousand Teeth</h3>
+<p>Associated Colour: Red <br>
+Associated Symbol: Dripping Blood <br>
+Associated Element: Blood <br>
+Themes:
+<ul>
+  <li>Appetite, Hunger, Gluttony</li>
+  <li>The parts of a person that are meat</li>
+</ul>
+</p>
+
 <h3>The Liquid Sun</h3>
+<p>Associated Colour: Orange <br>
+Associated Symbol: The Sun <br>
+Associated Element: Gold <br>
+Themes:
+<ul>
+  <li>Inspiration, charisma</li>
+  <li>Light, the flow of energy</li>
+  <li>Mania, burning out</li>
+</ul>
+</p>
+
 <h3>The Precipice Contagion</h3>
+<p>Associated Colour: Yellow <br>
+Associated Symbol: The alchemical sign for Arsenic <br>
+Associated Element: Choler (Bile) <br>
+Themes:
+<ul>
+  <li>Fever Dreams, illness</li>
+  <li>Innovation that comes from desperation at the knife's edge</li>
+  <li>Pushing limitations, breaking boundaries, going to the extreme</li>
+</ul>
+</p>
+
 <h3>The Twisting Verdancy</h3>
+<p>Associated Colour: Green <br>
+Associated Symbol: A sprout with two spiral leaves <br>
+Associated Element: Vitrum (Uranium Glass) <br>
+Themes:
+<ul>
+  <li>Growth as a natural part of aging</li>
+  <li>The Cycle of life and death</li>
+  <li>Reproduction, creation</li>
+</ul>
+</p>
+
 <h3>The Endless Dream</h3>
+<p>Associated Colour: Blue <br>
+Associated Symbol: Mirrors <br>
+Associated Element: Gallium <br>
+Themes:
+<ul>
+  <li>Dualities</li>
+  <li>Daydreams/Nightmares</li>
+  <li>Sleeping/Waking</li>
+  <li>Loneliness/Connection</li>
+</ul>
+</p>
+
 <h3>The Flower Fields</h3>
+<p>Associated Colour: Violet <br>
+Associated Symbol: A wrapped candy sweet with a spiral in the center <br>
+Associated Element: Sugar <br>
+Themes:
+<ul>
+  <li>Nostalgia, comfort for its own sake</li>
+  <li>Paralysis, restless torpor</li>
+  <li>Perceptual disturbance and manipulation</li>
+</ul>
+</p>
+
 <h3>The Iron Gate</h3>
+<p>Associated Colour: Black <br>
+Associated Symbol: An Iron Key <br>
+Associated Element: Carbon <br>
+Themes:
+<ul>
+  <li>Eyes open</li>
+  <li>Secrets sought and revealed</li>
+  <li>Questioning the status quo</li>
+  <li>Opened/opening locks</li>
+</ul>
+</p>
 
 <h2>Realms</h2>
 <h3>Ossiary</h3>
