@@ -1,7 +1,8 @@
 # Entities and Their Realms
 <p>Summary of the various Entities of the Wheel and their associated Realms</p>
 
-<h2>Table of Contents</h2>
+<details>
+<summary><h2>Table of Contents</h2></summary>
 <ul>
   <li>White
     <ul>
@@ -52,6 +53,7 @@
     </ul>
   </li>
 </ul>
+</details>
 
 <h2>Entities</h2>
 <h3>The Cathedral of Bone</h3>
