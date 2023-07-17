@@ -4,16 +4,15 @@
 
 <h2>Elements</h2>
 
-![.](/Setting_Bible/images/Elemental_Diagram.png "Diagram of the Alchemical Elements of the Crucible Cosmos by pixelightflower")
+![A diagram of the elements of the Crucible Cosmos arranged in a circle. Clockwise: white bone dust, red blood, orange amber, yellow bile, black iron, green glass, liquid blue metal, purple tinted sugar. In the center are three more elements, salt in the shape of a perfect white cube, ovum in the shape of a black egg with an infinity symbol in its center, slime in the shape of an oozing colour wheel.](/Setting_Bible/images/Elemental_Diagram.png "Diagram of the Alchemical Elements of the Crucible Cosmos by pixelightflower")
 
-<p>The elements of the Wheel are differentiated by the alchemical elements associated with the entities and basic elements of the universe.</p>
+<p>The elements of the Wheel are differentiated by the elements representing the 8 entities and the three elements that make up all living beings of the Wheel.</p>
 
-Bone - Secrets, Foundations, Stability, White/Black
+Salt - Secrets, Foundations, Stability, White/Black
 Slime - Change, Adaptation, Evolution, Versatility, Red/Blue
 Flower - Reproduction, Creation, Life, Death, Yellow/Green
 
 Dust - Slime - Stagnation
-Ash - Bone - Ignorance
+Ash - Salt - Ignorance
 Rot - Flower - Unmet Potential/Waste
 
-A diagram of the elements of the Crucible Cosmos arranged in a circle. Clockwise: white bone dust, red blood, orange amber, yellow bile, black iron, green glass, liquid blue metal, purple tinted sugar
