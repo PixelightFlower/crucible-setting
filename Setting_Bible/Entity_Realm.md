@@ -2,18 +2,12 @@
 ![A diagram of the Wheel, 8 worlds arranged in a circle. Clockwise: a world made of white cubes, a world made of teeth and meat, a sunrise world made of orange amber, an industrial world of yellow smog, a black world made of shadows and stars, a green world that looks like a giant tree, a blue world made of two oceans one made of daydreams the other made of nightmares, a purple world that is a maze made of fungi.](/Setting_Bible/images/Wheel_Map.png "Wheel Map by pixelightflower")
 <p>Summary of the various Entities of the Wheel and their associated Realms</p>
 
-
-
 <details>
 <summary><h2>Table of Contents</h2></summary>
 <ul>
   <li>White
     <ul>
-      <li>
-	  
-	  [The Cathedral of Bone](Entity_Realm.md#the-cathedral-of-bone)
-	  
-	  </li>
+      <li>[The Cathedral of Bone](Entity_Realm.md#the-cathedral-of-bone)</li>
       <li>Ossiary</li>
     </ul>
   </li>
