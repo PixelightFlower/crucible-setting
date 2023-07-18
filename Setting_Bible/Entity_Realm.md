@@ -157,11 +157,13 @@ Themes:
 </p>
 
 <h2>Realms</h2>
+<p>The Realms of the Wheel, also called Spokes, are differentiated worlds that have grown around the various Entities. They are filled with living people of various shapes, plants and fauna, and odd localized physics. Each Realm is defined and seperate, and the ways one can travel from one to the next are often esoteric. It is as possible to walk from Rot to Sable as it is to sail on a ship from Velde through Ebb and into the Maze. Travel between the Spokes often has more to do with what it FEELS like should happen rather than what should logically occur.</p>
 <h3>Ossiary</h3>
 <p>"In Secrets Defined"
 <ul>
-  <li>A place known for symmetry, absolute law and absolute silence. All secrets are kept and never spoken</li>
-  <li>Secrets are traded and bartered for in the shape of perfectly formed pearls</li>
+  <li>A place known for symmetry, absolute law and absolute silence. All secrets are kept and never spoken. A place of byzantine laws and order kept at the pace of the clock's tick. Peoples that live in Ossiary tend to live a life of monastic service and simplicity. At their worse, they are known for being extremely selfish and insular, to the point of abject cruelty.</li>
+  <li>Ossiary is formed of a multitude of bone white cubes floating together in the ether. Each cube has localized gravity that adheres to each of its six sides. The image of Ossiary is dominated by a massive mega-cathedral on the largest cube, Ecclesia.</li>
+  <li>Ossiary has no trade, people perform their functiions and are sustained.</li>
   <li>Native Inhabitants: Crowns, Bone Wasps</li>
   <li>Capital City: Ecclesia</li>
 </ul>
@@ -170,6 +172,7 @@ Themes:
 <p>"We are no more than Meat and no less than Flesh"
 <ul>
   <li>A place of flesh and hunger, dominated by gluttony and lusts.</li>
+  <li>Swelter is often assumed to literally be the body of the Entity The Thousand Teeth, within which its inhabitants have carved homes in its bones and made a meal of its flesh. This is assumed to be the way Chimera were first formed. Houses are often made of bone, objects made of various leathers, ivories and keratin.</li>
   <li>Swelter trades in Beads, made of pressed flower petals and probably blood, they’re generally inconsistently formed. Larger amounts come in different shapes.</li>
   <li>Native Inhabitants: Chimera</li>
   <li>Capital City: Dis
@@ -182,9 +185,9 @@ Themes:
 <h3>Aura</h3>
 <p>"Live in Every Mote of Sunlight"
 <ul>
-  <li>Gilt is lit by a sky full of suns and glowing motes of amber light. There is no true night Gilt, the closest is a burnt orange sky and the colour of amber light.</li>
-  <li>A place of golden and picturesque dawns, vast brass trees that grow crystalline fruit</li>
-  <li>Gilt trades in thin golden coins called Motes</li>
+  <li>Aura is lit by a sky full of suns and glowing motes of amber light. There is no true night in Aura, the closest is a burnt orange sky and the colour of amber light. Aura is a circular mobius strip, a double sided loop around a massive wobbling mass of amber light.</li>
+  <li>A place of golden and picturesque dawns, vast brass trees that grow crystalline fruit. Globules of liquid light fill the sky called amber lights, the most well known feature of Aura. Life in Aura is often considered exhausting and busy by those not used to its intense pace.</li>
+  <li>Aura trades in thin golden coins called Motes</li>
   <li>Native Inhabitants: Sol Bats, Guild Bees</li>
   <li>Capital City: Halcyon
     <ul>
@@ -196,7 +199,7 @@ Themes:
 <h3>Rot</h3>
 <p>"May Death Drive us to Live"
 <ul>
-  <li>A place abuzz with frantic desperate action, often considered a pariah realm that few outside of Rat Rats willingly enter. Hallucinogenics and drug use run rampant through Rot, and some of the best psychotropics come from its labs. Filled with flowers, the scent of semi rotting vegetation is pervasive.</li>
+  <li>A place abuzz with frantic desperate action, often considered a pariah realm that few outside of Rat Rats willingly enter. Filled with flowers, the scent of semi rotting vegetation and oily smog is pervasive. The cities of Rot are massive sprawling things filled with factory complexes.</li>
   <li>Rot is filled with various urban acclimated climbing flowers, many with wiry stalks and serrated leaves. Their flowers are heady and chloratic, straining to reach out past the ever present smog.</li>
   <li>Rot trades in Hours, oily silver hexagons with hourglasses on them</li>
   <li>Native Inhabitants: Rot Rats</li>
@@ -210,7 +213,7 @@ Themes:
 <h3>Velde</h3>
 <p>"Grow. Spread. Thrive."
 <ul>
-  <li>An immense arboreal realm filled with twisting trunks and vines and obscenely fruiting canopies, Beautiful, if sinister in that it never stops moving, stops seeking, stops wanting more.</li>
+  <li>An immense arboreal realm filled with twisting trunks and vines and obscenely fruiting canopies, Beautiful, if sinister in that it never stops moving, stops seeking, stops wanting more. Velde is beautiful from a distance, though people not native to the realm are put off by the deep seated societal pressure to create by any means.</li>
   <li>Velde doesn't have a specific coinage, relying entirely on barter for created objects</li>
   <li>Native Inhabitants: Flower Dragons</li>
   <li>Capital City: Veradas
@@ -238,7 +241,7 @@ Themes:
 <p>"Rest Your Mind and Your Heart will soon Follow"
 <ul>
   <li>An endless maze of caverns, lit in soft tones, scented of nostalgia. A place meant to ensnare the unwary with longed for memories and loving embrace. Easiest to get stuck here while exploring the Daylight Ocean, or as succour for a traveller in the Silent Sea. Filled with luminescent mushrooms, oozing lichen, fields of sporing mushrooms with cloying pollen.</li>
-  <li>Maze is filled with a vast network of fungus that forms a symbiotic hivemind with its inhabitants. The True capital of Maze exists as a shared hallucination of its denizens, a psychedelic place of metaphor and meaning and distraction.</li>
+  <li>Maze is filled with a vast network of fungus that forms a symbiotic hivemind with its inhabitants. The True capital of Maze exists as a shared hallucination of its denizens, a psychedelic place of metaphor and meaning and distraction. All are equal in the true capital of Maze.</li>
   <li>Maze has no noteworthy trade outside of occasional barter</li>
   <li>Native Inhabitants: Bloom Olm, Dust Moths</li>
   <li>Capital City: Reverie
@@ -251,7 +254,7 @@ Themes:
 <h3>Sable</h3>
 <p>"The Door is Always Open"
 <ul>
-  <li>Known for secrets waiting to be revealed, filled with makers and those that seek hidden truths. The most noteworthy landmark is the Astra Valley, a star shaped river valley that butts up to several geological features. It is also the main populated portion of the Spoke as the Moon that lights up from the distant ceiling gives it a few hours of light a day.</li>
+  <li>Known for secrets waiting to be revealed, filled with makers and those that seek hidden truths. The most noteworthy landmark is the Astra Valley, a star shaped river valley that butts up to several geological features. It is also the main populated portion of the Spoke as the Moon that lights up from the distant ceiling gives it a few hours of light a day. Sable is a realm housed inside a darkened cavern, utterly pitch black save the lights of crystal stars in the cavern ceiling far overhead. The Moon of Ebb is visible from Sable for a short period of the day owing to a massive clear crystal window in the ceiling above.</li>
   <li>Sable trades in Lux, a paper money with luminescent ink</li>
   <li>Native Inhabitants: Grave Dogs</li>
   <li>Capital City: Midnight 
