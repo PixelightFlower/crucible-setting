@@ -2,6 +2,7 @@
 <p>The shape of the Crucible (alternatively called the Wheel) Cosmos. The nature of the universe, a summary of its elements and the nature of being.</p>
 
 <h2>Shape of the Universe</h2>
+
 ![A diagram of the Crucible Cosmos. In the center is a rust coloured basin with 8 spouts called the Crucible. Surrounding the Crucible is a circle of 8 colours. Clockwise: white with a stylized cage, red with a stylized drop of blood, orange in the shape of the sun, yellow in the shape of the alchemical symbol for arsenic stylized like an hourglass, black in the shape of a key, green in the shape of a plant sprout with two spiral leaves, blue in the shape of a stylized mirror and purple in the shape of a wrapped candy with a spiral in its center.](/Setting_Bible/images/Wheel_Diagram.png "Diagram of the Crucible Cosmos by pixelightflower")
 
 <h3>The Wheel</h3>
