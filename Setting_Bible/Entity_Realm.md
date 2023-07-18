@@ -7,7 +7,7 @@
 <ul>
   <li>White
     <ul>
-      <li>The Cathedral of Bone</li>
+      <li>[The Cathedral of Bone](/Entity_Realm.md#the-cathedral-of-bone)</li>
       <li>Ossiary</li>
     </ul>
   </li>
@@ -69,6 +69,7 @@ Themes:
   <li>Secrets</li>
   <li>Foundations</li>
 </ul>
+<p>The Colour White and The Cathedral of Bone are associated with selfishness, things that you hold close to yourself that no one is meant to know. These things give you structure and foundation, like the bones in the body. It also represents what seperates you from other people, such as a cage might. The Cathedral of Bone holds secrets close, and anything it deems necessary. Order streams out of it like a dusty wind. It is commonly assumed that it exists within the mega cathedral of Ecclesia, if not being the cathedral itself.</p>
 </p>
 
 <h3>The Thousand Teeth</h3>
@@ -80,6 +81,7 @@ Themes:
   <li>Appetite, Hunger, Gluttony</li>
   <li>The parts of a person that are meat</li>
 </ul>
+<p>The Colour Red and The Thousand Teeth are associated with passion and need. It wants to consume, to absorb, to make as much of the world a part of itself as possible. It is the iidea that you are what you eat, sometimes in a truly literal sense. It is assumed that the realm of Swelter is the body of The Thousand Teeth, and its vast chambers and mouths are its welcoming hunger.</p>
 </p>
 
 <h3>The Liquid Sun</h3>
@@ -92,6 +94,7 @@ Themes:
   <li>Light, the flow of energy</li>
   <li>Mania, burning out</li>
 </ul>
+<p>The Colour Orange and The Liquid Sun are associated with charisma and insipiration, the heights of creative endeavour to the point of mania. The Liquid Sun is often assumed to exist in the floating globules of amber light that fill the skies of Aura.</p>
 </p>
 
 <h3>The Precipice Contagion</h3>
@@ -104,6 +107,7 @@ Themes:
   <li>Innovation that comes from desperation at the knife's edge</li>
   <li>Pushing limitations, breaking boundaries, going to the extreme</li>
 </ul>
+<p>The Colour Yellow and The Precipice Contagion are associated with Obsession and Burn Out. There is some debate if The Precipice Contagion is a literal plague that spreads through the ever present smog of Rot, driving people with insomnia to ever increasing need to work, produce, create, and then burn out like a firework.</p>
 </p>
 
 <h3>The Twisting Verdancy</h3>
@@ -116,6 +120,7 @@ Themes:
   <li>The Cycle of life and death</li>
   <li>Reproduction, creation</li>
 </ul>
+<p>The Colour Green and The Twisting Verdancy are associated with Reproduction and Legacy. Most often, this takes the form of literal offspring or creative works, the need to make more and for those creations to outlast you. The Twisting Verdancy is sometimes cited as existing in an odd, spiralling cavern deep in the center of Velde from which a perpetual green light shines. The light twists what it shines on, making things grow more and more, like an unending, undieing cancer.</p>
 </p>
 
 <h3>The Endless Dream</h3>
@@ -129,6 +134,7 @@ Themes:
   <li>Sleeping/Waking</li>
   <li>Loneliness/Connection</li>
 </ul>
+<p>The Colour Blue and The Endless Dream are associated with Dualities and Connection. It's often the colour of affection and compassion, and The Endless Dream is an entity used as a symbol of love. The Endless Dream is a conjoined, fused entity formed from The Endless Dream and The Twilight Hour. They and their realms merged to form Ebb and The Endless Dream. The Endless Dream is generally represented with mirrors and reflected surfaces. Some scholars theorize that The Endless Dream is the quicksilver moon that orbits Ebb and can occasionally be seen from other spokes.
 </p>
 
 <h3>The Flower Fields</h3>
@@ -141,6 +147,7 @@ Themes:
   <li>Paralysis, restless torpor</li>
   <li>Perceptual disturbance and manipulation</li>
 </ul>
+<p>The Colour Violet and The Flower Fields are associated with Memory and Comfort. This often includes nostalgia as well as trauma, those parts of one's mind that form a person day by day. The Flower Fields is assumed to be the massive fungal hivemind that fills Maze. The Flower Fields seeks to bring comfort to all that come Maze, a comfort that draws people into an endless hallucinatory torpor.</p>
 </p>
 
 <h3>The Iron Gate</h3>
@@ -154,6 +161,7 @@ Themes:
   <li>Questioning the status quo</li>
   <li>Opened/opening locks</li>
 </ul>
+<p>The Colour Black and The Iron Gate are associated with Curiousity and Seeking. They are the drive to know, the need to find new things and new experiences. The Iron Gate is the open door, it is the invitation to step inside. Ironically, The Black Iron Gate is the only entity to have no known physical location on The Wheel. Despite its encouragement to learn, to seek, to uncover secrets and truths no one has yet determined if The Iron Gate even exists at all.
 </p>
 
 <h2>Realms</h2>
