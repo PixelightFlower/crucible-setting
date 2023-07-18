@@ -7,7 +7,7 @@
 <ul>
   <li>White
     <ul>
-      <li>[The Cathedral of Bone](Entity_Realm.md#the-cathedral-of-bone)</li>
+      <li>ddd[The Cathedral of Bone](Entity_Realm.md#the-cathedral-of-bone)</li>
       <li>Ossiary</li>
     </ul>
   </li>

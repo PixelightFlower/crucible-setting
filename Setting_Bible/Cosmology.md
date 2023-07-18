@@ -38,7 +38,7 @@
   <li>Purple Sugar</li>
 </ul>
 
-<h2>Being</h2>
+<h2>Tripartite Being</h2>
 <p>People are tripartite constructs consisting of Potentia, Soul Pigment and Physicality. It can be thought of as Potential, Creativity and Physical Existence. For our purposes, a person is a willful existence that is capable of change with a physical shape. There are other things that can exist in the world lacking one or more of these parts but for our purposes they are not people in the strictest sense. People stop being people when they lose any of the three parts of Being. They occupy a nebulous space of not-quite-being until they fill in the gaps or dissolve into the ether.</p>
 <p>“Perception” versus “effect” is important to bring up here. For our purposes to perceive a dimension is to be able to perceive its existence and shape. Being able to effect change in that dimension is different entirely. For instance, we can perceive time but not manipulate it. We can perceive and manipulate physical dimensions within constraints. We can perceive and manipulate the Plane of Dreams only while dreaming. Prophets can perceive the Meta-Phys Plane, often disconnected from their perception of linear time, but they cannot affect it in any way.</p>
 
