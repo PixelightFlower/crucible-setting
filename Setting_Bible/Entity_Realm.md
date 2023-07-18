@@ -10,8 +10,10 @@
 <ul>
   <li>White
     <ul>
-      <li><p></p></li>
-      <li>Ossiary</li>
+      <li><a href="#first-attempts">First Attempts</a></li>
+      <li>
+	  <a href="#first-attempts">First Attempts</a>
+	  </li>
     </ul>
   </li>
   <li>Red
