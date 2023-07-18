@@ -7,7 +7,7 @@
 <ul>
   <li>White
     <ul>
-      <li>[The Cathedral of Bone](#the-cathedral-of-bone)</li>
+      <li>[The Cathedral of Bone](/crucible-setting/blob/main/Setting_Bible/Entity_Realm.md#the-cathedral-of-bone)</li>
       <li>Ossiary</li>
     </ul>
   </li>
