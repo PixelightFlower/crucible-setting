@@ -69,7 +69,7 @@ Themes:
   <li>Secrets</li>
   <li>Foundations</li>
 </ul>
-<p>The Colour White and The Cathedral of Bone are associated with selfishness, things that you hold close to yourself that no one is meant to know. These things give you structure and foundation, like the bones in the body. It also represents what seperates you from other people, such as a cage might. The Cathedral of Bone holds secrets close, and anything it deems necessary. Order streams out of it like a dusty wind. It is commonly assumed that it exists within the mega cathedral of Ecclesia, if not being the cathedral itself.</p>
+<p>The Colour White and The Cathedral of Bone are associated with secrets and order, things that you hold close to yourself that no one is meant to know. These things give you structure and foundation, like the bones in the body. It also represents what seperates you from other people, such as a cage might. It guards itself and what it desires with overwhelming force. The Cathedral of Bone holds secrets close, and anything it deems necessary. Order streams out of it like a dusty wind, perserved and stolen relics lining its endless halls. It is commonly assumed that it exists within the mega cathedral of Ecclesia, if not being the cathedral itself.</p>
 </p>
 
 <h3>The Thousand Teeth</h3>
@@ -81,7 +81,7 @@ Themes:
   <li>Appetite, Hunger, Gluttony</li>
   <li>The parts of a person that are meat</li>
 </ul>
-<p>The Colour Red and The Thousand Teeth are associated with passion and need. It wants to consume, to absorb, to make as much of the world a part of itself as possible. It is the iidea that you are what you eat, sometimes in a truly literal sense. It is assumed that the realm of Swelter is the body of The Thousand Teeth, and its vast chambers and mouths are its welcoming hunger.</p>
+<p>The Colour Red and The Thousand Teeth are associated with passion and need. It wants to consume, to absorb, to make as much of the world a part of itself as possible. It is the iidea that you are what you eat, sometimes in a truly literal sense. "Seeing Red" often refers to being overwhelmed by the hunger of the Thousand Teeth and being driven to intense, passionate, often violent action. It is assumed that the realm of Swelter is the body of The Thousand Teeth, and its vast chambers and mouths are its welcoming hunger.</p>
 </p>
 
 <h3>The Liquid Sun</h3>
@@ -92,7 +92,7 @@ Themes:
 <ul>
   <li>Inspiration, charisma</li>
   <li>Light, the flow of energy</li>
-  <li>Mania, burning out</li>
+  <li>Mania</li>
 </ul>
 <p>The Colour Orange and The Liquid Sun are associated with charisma and insipiration, the heights of creative endeavour to the point of mania. The Liquid Sun is often assumed to exist in the floating globules of amber light that fill the skies of Aura.</p>
 </p>
@@ -147,7 +147,7 @@ Themes:
   <li>Paralysis, restless torpor</li>
   <li>Perceptual disturbance and manipulation</li>
 </ul>
-<p>The Colour Violet and The Flower Fields are associated with Memory and Comfort. This often includes nostalgia as well as trauma, those parts of one's mind that form a person day by day. The Flower Fields is assumed to be the massive fungal hivemind that fills Maze. The Flower Fields seeks to bring comfort to all that come Maze, a comfort that draws people into an endless hallucinatory torpor.</p>
+<p>The Colour Violet and The Flower Fields are associated with Memory and Comfort. This often includes nostalgia as well as trauma, those parts of one's mind that form a person day by day. The Flower Fields is assumed to be the massive fungal hivemind that fills Maze. The Flower Fields seeks to bring comfort to all that come to Maze, a comfort that draws people into an endless hallucinatory torpor.</p>
 </p>
 
 <h3>The Iron Gate</h3>
@@ -170,8 +170,8 @@ Themes:
 <p>"In Secrets Defined"
 <ul>
   <li>A place known for symmetry, absolute law and absolute silence. All secrets are kept and never spoken. A place of byzantine laws and order kept at the pace of the clock's tick. Peoples that live in Ossiary tend to live a life of monastic service and simplicity. At their worse, they are known for being extremely selfish and insular, to the point of abject cruelty.</li>
-  <li>Ossiary is formed of a multitude of bone white cubes floating together in the ether. Each cube has localized gravity that adheres to each of its six sides. The image of Ossiary is dominated by a massive mega-cathedral on the largest cube, Ecclesia.</li>
-  <li>Ossiary has no trade, people perform their functiions and are sustained.</li>
+  <li>Ossiary is formed of a multitude of stark white cubes floating together in the ether. Each cube has localized gravity that adheres to each of its six sides. The image of Ossiary is dominated by a massive mega-cathedral on the largest cube, Ecclesia.</li>
+  <li>Ossiary has no trade, people perform their functions and are sustained. No goods are relinquished willingly.</li>
   <li>Native Inhabitants: Crowns, Bone Wasps</li>
   <li>Capital City: Ecclesia</li>
 </ul>
@@ -207,7 +207,7 @@ Themes:
 <h3>Rot</h3>
 <p>"May Death Drive us to Live"
 <ul>
-  <li>A place abuzz with frantic desperate action, often considered a pariah realm that few outside of Rat Rats willingly enter. Filled with flowers, the scent of semi rotting vegetation and oily smog is pervasive. The cities of Rot are massive sprawling things filled with factory complexes.</li>
+  <li>A place abuzz with frantic desperate action, often considered a pariah realm that few outside of Rot Rats willingly enter. Filled with flowers, the scent of semi rotting vegetation and oily smog is pervasive. The cities of Rot are massive sprawling things filled with factory complexes.</li>
   <li>Rot is filled with various urban acclimated climbing flowers, many with wiry stalks and serrated leaves. Their flowers are heady and chloratic, straining to reach out past the ever present smog.</li>
   <li>Rot trades in Hours, oily silver hexagons with hourglasses on them</li>
   <li>Native Inhabitants: Rot Rats</li>
@@ -264,7 +264,7 @@ Themes:
 <ul>
   <li>Known for secrets waiting to be revealed, filled with makers and those that seek hidden truths. The most noteworthy landmark is the Astra Valley, a star shaped river valley that butts up to several geological features. It is also the main populated portion of the Spoke as the Moon that lights up from the distant ceiling gives it a few hours of light a day. Sable is a realm housed inside a darkened cavern, utterly pitch black save the lights of crystal stars in the cavern ceiling far overhead. The Moon of Ebb is visible from Sable for a short period of the day owing to a massive clear crystal window in the ceiling above.</li>
   <li>Sable trades in Lux, a paper money with luminescent ink</li>
-  <li>Native Inhabitants: Grave Dogs</li>
+  <li>Native Inhabitants: Dust Moths, Grave Dogs</li>
   <li>Capital City: Midnight 
     <p>Midnight is beyond the Umbral Mountain where no light of the moon can reach, because of that they’ve filled their dark city with artificial light. It looks like a star field from above, and it bustles with life.</p>
     <ul>
