@@ -86,7 +86,7 @@
   <li>Native to Aura</li>
   <li>Inspirational Corona
     <ul>
-	  <li>Sol Bats literally glow with the light of inspiration and charisma. They can use this to shake the souls of those around them, influencing one or more of their soul pigments.</li>
+	  <li>Sol Bats literally glow with the light of inspiration and charisma. They can use this to shake the souls of those around them, influencing one or more of their soul pigments. This corona's effect is tied directly to the Sol Bat's Glow, a manifestation of their inner inspiration and charisma. This glow appears as a mote of light or a tongue of fire above their head that is otherwise harmless to anyone that touches it. Their glow increases in size and luminosity the more new experiences the Sol Bat encounters, and dims over time. Should the Glow extinguish completely, the Bat will die.</li>
 	</ul></li>
 </ul>
 
