@@ -194,7 +194,7 @@ Themes:
 <p>"Live in Every Mote of Sunlight"
 <ul>
   <li>Aura is lit by a sky full of suns and glowing motes of amber light. There is no true night in Aura, the closest is a burnt orange sky and the colour of amber light. Aura is a circular mobius strip, a double sided loop around a massive wobbling mass of amber light.</li>
-  <li>A place of golden and picturesque dawns, vast brass trees that grow crystalline fruit. Globules of liquid light fill the sky called amber lights, the most well known feature of Aura. Life in Aura is often considered exhausting and busy by those not used to its intense pace.</li>
+  <li>A place of golden and picturesque dawns, vast brass trees that grow crystalline fruit. Globules of liquid light fill the sky called amber lights, the most well known feature of Aura. Life in Aura is often considered exhausting and busy by those not used to its intense pace. Inhabitants of Aura are conditionally immortal, living for as long as they can maintain their Glow. Each individual's glow manifests somewhat differently though it is most commonly a tongue of fire that flickers above their head. This light grows when the individual experiences something new or inspiring. As long as this glow is bright the individual will live. This often encourages its inhabitants to greater and greater heights of artistic endeavor and experience, consuming new and bizarre foods, attempting more and more dangerous or fool hardy activities.</li>
   <li>Aura trades in thin golden coins called Motes</li>
   <li>Native Inhabitants: Sol Bats, Guild Bees</li>
   <li>Capital City: Halcyon
